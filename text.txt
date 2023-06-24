@@ -1,1 +1,3 @@
-It will be marged with master branch
+It will be marged with master branch.
+
+After this I have added this text in the master branch
